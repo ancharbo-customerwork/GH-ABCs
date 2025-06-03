@@ -17,6 +17,7 @@ References:
     paths:
       - 'labs/**'
 ```
+#comment
 3. Commit the workflow changes into the `main` branch
 4. Change a file inside the folder [labs](/labs)
 5. Commit the changes into the `main` branch
